@@ -9,5 +9,5 @@ name = "java"
   runtime_version = "17"
 
 [[analyzers]]
-name = "duplication-engine"
+name = "duplication"
 enabled = true
